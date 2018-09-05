@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Kotlin</string>
+
+    <string-array name="club_name">
+        <item>Barcelona FC</item>
+        <item>Real Madrid FC</item>
+        <item>Bayern Munchen FC</item>
+        <item>Manchester City FC</item>
+    </string-array>
+
+    <array name="club_image">
+        <item>@drawable/untitled1</item>
+        <item>@drawable/untitled2</item>
+        <item>@drawable/untitled3</item>
+        <item>@drawable/untitled4</item>
+        <item>@drawable/untitled5</item>
+    </array>
+
+</resources>
